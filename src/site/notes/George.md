@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/george/","tags":["gardenEntry"]}
 ---
 
-# Hey there, I'm George 🌴
+# 🌴 Hey there, I'm George
 
 I am working to create a connected world through global and local change. 
 
