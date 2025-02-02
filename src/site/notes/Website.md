@@ -16,12 +16,16 @@ If you have something particularly interesting to show me, then you can [email](
 
 ```
 Subject: (Concise explanation of the topic)
-Body: Hey there George, my name is (your name/alias)
+Body: Hey there George, my name is (your name)
 
 I have this cool thing to show you: (link to cool thing)
 
 I would love to talk to you about this, let me know when!
 
 Thanks and nice website,
-(your name/alias)
+(your name)
 ```
+
+---
+
+
