@@ -10,5 +10,11 @@ I'm currently working with: __[peaceful](https://peacefulfoundation.org/)__ ~ __
 
 ---
 
-I'm pretty private, but you can find me @ [Bluesky](https://bsky.app/profile/georgemorley.co.uk) ~ [Instagram](https://www.instagram.com/properwacky/) ~ [Substack](https://substack.com/@wcky) ~ [Unsplash](https://unsplash.com/@properwacky) 
-If you wish to speak to me privately, then you can [email](mailto:georgemorley@proton.me) me. Make sure to  
+I'm pretty private, but you can find all of my links [here](https://linksta.cc/@wcky) 
+
+If you wish to speak to me privately, then you can [email](mailto:georgemorley@proton.me) me. 
+
+If you have something particularly interesting to show me, then you can [email](mailto:georgemorley@proton.me) me. I would rather you use the template down below to allow me to quickly and simply see what you have to offer. Thanks!
+
+> Subject: *Concise explanation of the topic*
+> Body:   
