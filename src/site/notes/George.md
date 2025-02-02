@@ -4,7 +4,7 @@
 
 # Hey, I'm George 🌴
 
-I am working to create a natural and connected world through global and local change.  
+I am working to create a connected world through global and local change. 
 
 ---
 ## What are you working on?
@@ -31,3 +31,5 @@ I would love to talk to you about this, let me know when!
 Thanks and nice website,
 (your name)
 ```
+
+---
