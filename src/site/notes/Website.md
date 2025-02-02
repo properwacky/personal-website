@@ -16,5 +16,8 @@ If you wish to speak to me privately, then you can [email](mailto:georgemorley@p
 
 If you have something particularly interesting to show me, then you can [email](mailto:georgemorley@proton.me) me. I would rather you use the template down below to allow me to quickly and simply see what you have to offer. Thanks!
 
-> Subject: *Concise explanation of the topic*
-> Body:   
+> **Subject**: *Concise explanation of the topic*
+> **Body**:  Hey George, I'm emailing 
+```
+hey there
+```
