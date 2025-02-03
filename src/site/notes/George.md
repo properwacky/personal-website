@@ -13,7 +13,7 @@ I am currently using my time to learn and volunteer. I enjoy nature, so I am pur
 
 I'm currently working with: [peaceful](https://peacefulfoundation.org/) ~ [endCE](https://www.endce.org/) ~ [NHSN](https://www.nhsn.org.uk/)
 
-I am also a writer and have a [newsletter](https://wcky.substack.com/). 
+I am also a writer and have a [newsletter](https://wcky.substack.com/)
 
 ---
 ## Contact
