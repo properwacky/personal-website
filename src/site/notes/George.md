@@ -20,9 +20,10 @@ I am also a writer and have a [newsletter](https://wcky.substack.com/)
 
 I'm pretty private, but you can find all of my links [here](https://linksta.cc/@wcky) 
 
-If you have something particularly interesting to show me, then you can [email](mailto:georgemorley@proton.me) me. I kindly ask you to use the template down below to allow me to quickly and simply see what you have to offer. Thanks!
+If you have something particularly interesting to show me, then you can email me. I kindly ask you to use the template down below to allow me to quickly and simply see what you have to offer. Thanks!
 
 ```
+To: georgemorley *at* proton *dot* me
 Subject: (Concise explanation of the topic)
 Body: Hey there George, my name is (your name)
 
