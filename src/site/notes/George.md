@@ -13,12 +13,8 @@ I am currently using my time to learn and volunteer. I enjoy nature, so I am pur
 
 I'm currently working with: [peaceful](https://peacefulfoundation.org/) ~ [endCE](https://www.endce.org/) ~ [NHSN](https://www.nhsn.org.uk/)
 
-I am also a writer and have a [newsletter](https://wcky.substack.com/)
-
 ---
 ## Contact
-
-I'm pretty private, but you can find all of my links [here](https://linksta.cc/@wcky) 
 
 If you have something particularly interesting to show me, then you can email me. I kindly ask you to use the template down below to allow me to quickly and simply see what you have to offer. Thanks!
 
