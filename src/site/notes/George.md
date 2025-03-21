@@ -7,14 +7,14 @@
 I am working to create a connected world through global and local change. 
 
 ---
-## What are you working on?
+## What am I working on?
 
 I am currently using my time to learn and volunteer. I enjoy nature, so I am pursuing a career in conservation.
 
 I'm currently working with: [peaceful](https://peacefulfoundation.org/) ~ [endCE](https://www.endce.org/) ~ [NHSN](https://www.nhsn.org.uk/)
 
 ---
-## Contact
+## Contact 
 
 If you have something particularly interesting to show me, then you can email me. I kindly ask you to use the template down below to allow me to quickly and simply see what you have to offer. Thanks!
 
