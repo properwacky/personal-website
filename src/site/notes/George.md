@@ -18,8 +18,7 @@ I am currently using my time to learn and volunteer. I love being out in nature,
 
 I'm currently working with: [peaceful](https://peacefulfoundation.org/) ~ [endCE](https://www.endce.org/) ~ [NHSN](https://www.nhsn.org.uk/)
 
-
-
+---
 ## Current projects
 
 ~ 'Demo Area' at [GNR](https://www.nhsn.org.uk/gosforth-nature-reserve/)
