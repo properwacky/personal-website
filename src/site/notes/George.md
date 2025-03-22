@@ -2,15 +2,6 @@
 {"dg-publish":true,"permalink":"/george/","tags":["gardenEntry"]}
 ---
 
-ㅤ
-ㅤ
-ㅤ
-ㅤ
-ㅤ
-ㅤ
-ㅤ
-ㅤ
-ㅤ
 # Hey there, I'm George 🌴
 
 I am working to create a connected world through global and local change. 
