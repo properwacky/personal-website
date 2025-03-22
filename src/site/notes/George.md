@@ -17,8 +17,9 @@ I am working to create a connected world through global and local change.
 I am currently using my time to learn and volunteer. I love being out in nature, so my main priority is growing a career in conservation.
 
 I'm currently working with: [peaceful](https://peacefulfoundation.org/) ~ [endCE](https://www.endce.org/) ~ [NHSN](https://www.nhsn.org.uk/)
-
-
+ㅤ
+ㅤ
+ㅤ
 ## Current projects
 
 ~ 'Demo Area' at [GNR](https://www.nhsn.org.uk/gosforth-nature-reserve/)
