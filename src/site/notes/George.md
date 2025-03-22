@@ -25,17 +25,9 @@ I'm currently working with: [peaceful](https://peacefulfoundation.org/) ~ [endCE
 ---
 ## Want to contact me?
 
-If you have something particularly interesting to show me, then you can email me. I kindly ask you to use the template down below to allow me to quickly and simply see what you have to offer. Thanks!
+You can directly contact me through my social media accounts or through email. I'm a pretty busy dude, so I might not get back to you in a couple of days :)
 
-```
-To: georgemorley *at* proton *dot* me
-Subject: (Concise explanation of the topic)
-Body: Hey there George, my name is (your name)
+~ georgemorley@proton.me
+~ [Bluesky](https://bsky.app/profile/georgemorley.bsky.social)
+~ [Insta](https://www.instagram.com/properwacky/)
 
-I have this cool thing to show you: (link to cool thing)
-
-I would love to talk to you about this, let me know when!
-
-Thanks and nice website,
-(your name)
-```
