@@ -15,9 +15,9 @@ I'm currently working with: [peaceful](https://peacefulfoundation.org/) ~ [endCE
 
 ## Current projects
 
-- 'Demo Area' at [GNR](https://www.nhsn.org.uk/gosforth-nature-reserve/)
-- Website for [endCE](https://www.endce.org/)
-- Field Skills Programme at [NHSN](https://www.nhsn.org.uk/)
+~ 'Demo Area' at [GNR](https://www.nhsn.org.uk/gosforth-nature-reserve/)
+~ Website for [endCE](https://www.endce.org/)
+~ Field Skills Programme at [NHSN](https://www.nhsn.org.uk/)
 
 `last updated: 22/03/2025`
 
