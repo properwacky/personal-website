@@ -3,6 +3,7 @@
 ---
 
 ![copy.jpg](/img/user/copy.jpg)
+
 # Hey there, I'm George 🌴
 
 I am working to create a connected world through global and local change. 
