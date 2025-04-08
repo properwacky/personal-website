@@ -24,9 +24,10 @@ Here are some of the projects I've taken on:
 ---
 ## Want to contact me?
 
-You can directly contact me through my social media accounts or through email. I'm a pretty busy dude, so I might not get back to you in a couple of days :)
+You can contact me through email or Signal. You can find me on Bluesky and Instagram, but you won’t be able to talk to me through those :)
 
 ~ georgemorley@proton.me
+~ [Signal](https://signal.me/#eu/6oCjtPMKbMyxjF1UL993nOwjeR1Mlk7hUDxl8ciiGXCr30zIjA1HPqTSIlNwPN-3)
 ~ [Bluesky](https://bsky.app/profile/georgemorley.bsky.social)
 ~ [Insta](https://www.instagram.com/properwacky/)
 
