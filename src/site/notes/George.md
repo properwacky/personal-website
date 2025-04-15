@@ -6,7 +6,7 @@
 
 # Hey there, I'm George 🌴
 
-I am working to create a connected world through global and local change. I am interested in lots of things, like conservation, woodworking, hiking, wild-camping and photography. 
+I am working to create a connected world through global and local change. I am interested in conservation, woodworking, hiking, wild-camping and photography. 
 
 ---
 ## What am I working on?
