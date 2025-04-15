@@ -26,7 +26,7 @@ Here are some of the projects I've taken on:
 
 You can contact me through email or Signal. You can find me on Bluesky and Instagram, but you won’t be able to talk to me through those :)
 
-~ georgemorley@proton.me
+~ [Email](georgemorley@proton.me)
 ~ [Signal](https://signal.me/#eu/6oCjtPMKbMyxjF1UL993nOwjeR1Mlk7hUDxl8ciiGXCr30zIjA1HPqTSIlNwPN-3)
 ~ [Bluesky](https://bsky.app/profile/georgemorley.bsky.social)
 ~ [Insta](https://www.instagram.com/properwacky/)
