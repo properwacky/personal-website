@@ -18,8 +18,9 @@ Here are some of the projects I've taken on:
 ~ 'Demo Area' at [GNR](https://www.nhsn.org.uk/gosforth-nature-reserve/)
 ~ Website for [endCE](https://www.endce.org/)
 ~ Field Skills Programme at [NHSN](https://www.nhsn.org.uk/)
+~ Badger Walks at [GNR](https://www.nhsn.org.uk/gosforth-nature-reserve/)
 
-`last updated: 22/03/2025`
+`last updated: 08/05/2025`
 
 ---
 ## Want to contact me?
@@ -27,7 +28,7 @@ Here are some of the projects I've taken on:
 You can contact me through email or Signal. You can find me on Bluesky and Instagram, but you won’t be able to talk to me through those :)
 
 ~ [Email](mailto:georgemorley@proton.me)
-~ [Signal](https://signal.me/#eu/6oCjtPMKbMyxjF1UL993nOwjeR1Mlk7hUDxl8ciiGXCr30zIjA1HPqTSIlNwPN-3)
+~ [Signal](https://signal.me/#eu/zGkaxF7m-JTH1yHz4fUeU6ri5xt54gD0t7l0DT6PtWMVO7WnN7pGnKZXfKFhmWoS)
 ~ [Bluesky](https://bsky.app/profile/georgemorley.bsky.social)
 ~ [Insta](https://www.instagram.com/properwacky/)
 
