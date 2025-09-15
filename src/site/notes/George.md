@@ -4,9 +4,9 @@
 
 ![copy.jpg](/img/user/copy.jpg)
 
-# Hey there, I'm George 🌴
+# Hey there, I'm George
 
-I am working to create a connected world through global and local change. I am interested in conservation, woodworking, hiking, wild-camping and photography. 
+I am working to create a connected world through global and local change. Currently, I‘m studying Environmental Studies with the Open University, volunteering at a local nature reserve, and working in my spare time.
 
 ---
 ## What am I working on?
@@ -16,19 +16,17 @@ I am currently using my time to study, grow and volunteer to improve my knowledg
 Here are some of the projects I've taken on:
 
 ~ 'Demo Area' at [GNR](https://www.nhsn.org.uk/gosforth-nature-reserve/)
-~ Website for [endCE](https://www.endce.org/)
-~ Field Skills Programme at [NHSN](https://www.nhsn.org.uk/)
 ~ Badger Walks at [GNR](https://www.nhsn.org.uk/gosforth-nature-reserve/)
 
-`last updated: 08/05/2025`
+`last updated: 15/09/2025`
 
 ---
 ## Want to contact me?
 
-You can contact me through email or Signal. You can find me on Bluesky and Instagram, but you won’t be able to talk to me through those :)
+You can contact me directly through Signal or Email. I’m also on Instagram and Bluesky, but rarely use them!
 
 ~ [Email](mailto:georgemorley@proton.me)
-~ [Signal](https://signal.me/#eu/zGkaxF7m-JTH1yHz4fUeU6ri5xt54gD0t7l0DT6PtWMVO7WnN7pGnKZXfKFhmWoS)
-~ [Bluesky](https://bsky.app/profile/georgemorley.bsky.social)
+~ [Signal](https://signal.me/#eu/TgJb5_FZbGKztvVHGHdMk-5uG6FrhMV7eaOXSlK08PtSQg0u9RNA7IpbwZ6_75tA)
+~ [Bluesky](https://bsky.app/profile/georgemorley.co.uk)
 ~ [Insta](https://www.instagram.com/properwacky/)
 
