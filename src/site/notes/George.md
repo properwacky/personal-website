@@ -11,7 +11,7 @@ I am working to create a connected world through global and local change. Curren
 ---
 ## What am I working on?
 
-I am currently using my time to study, grow and volunteer to improve my knowledge and experience. I'm currently working with: [peaceful](https://peacefulfoundation.org/) ~ [endCE](https://www.endce.org/) ~ [NHSN](https://www.nhsn.org.uk/)
+I am currently using my time to study, grow and volunteer to improve my knowledge and experience. I'm currently working with: [peaceful](https://peacefulfoundation.org/) ~ [NHSN](https://www.nhsn.org.uk/)
 
 Here are some of the projects I've taken on:
 
