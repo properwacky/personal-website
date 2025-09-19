@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/contact/"}
 ---
 
-![copy.jpg](/img/user/copy.jpg)
+![how did you find me.png](/img/user/how%20did%20you%20find%20me.png)
 
 I will only respond to proposals if they match my schedule and interests.
 
@@ -11,6 +11,6 @@ email :: george@wcky.uk
 signal :: wcky.01
 
 ~ socials
-insta :: properwacky
+insta :: wcky.01
 bluesky :: wcky.uk
 
