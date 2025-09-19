@@ -6,8 +6,6 @@
 
 # Hey, I'm George
 
-Currently studying Environmental Studies at the Open University and volunteering at a nature reserve.
-
 [[About\|about]]
 blog 
 contact
