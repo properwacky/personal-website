@@ -9,7 +9,7 @@
 
 George Morley is a student at The Open University, studying a DipHE in Environmental Studies. He volunteers at a nature reserve, based in Newcastle upon Tyne, England. 
 
-
+---
 # Projects
 
 **~ Demo Area for Gosforth Nature Reserve**
