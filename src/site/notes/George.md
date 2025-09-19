@@ -8,7 +8,7 @@
 
 Currently studying Environmental Studies at the Open University and volunteering at a nature reserve.
 
-[about](obsidian://open?vault=website&file=About) 
+[[About\|about]]
 blog 
 contact
 
