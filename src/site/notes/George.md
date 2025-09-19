@@ -4,14 +4,16 @@
 
 ![copy.jpg](/img/user/copy.jpg)
 
-# Hey there, I'm George
+# Hey, I'm George
 
-I am working to create a connected world through global and local change. Currently, I‘m studying Environmental Studies with the Open University, volunteering at a local nature reserve, and working in my spare time.
+Currently studying Environmental Studies at the Open University and volunteering at a nature reserve.
+
+[about](obsidian://open?vault=website&file=About) 
+blog 
+contact
 
 ---
 ## What am I working on?
-
-I am currently using my time to study, grow and volunteer to improve my knowledge and experience. I'm currently working with: [peaceful](https://peacefulfoundation.org/) ~ [NHSN](https://www.nhsn.org.uk/)
 
 Here are some of the projects I've taken on:
 
