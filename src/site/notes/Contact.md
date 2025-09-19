@@ -12,5 +12,5 @@ signal :: wcky.61
 
 ~ socials
 insta :: properwacky
-bluesky :: georgemorley.co.uk
+bluesky :: wcky.uk
 
