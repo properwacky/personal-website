@@ -6,11 +6,18 @@
 
 I will only respond to proposals if they match my schedule and interests.
 
-~ direct
-email :: george@wcky.uk
-signal :: wcky.01
+## DIRECT
 
-~ socials
-insta :: wcky.01
-bluesky :: wcky.uk
+|        |                |
+| ------ | -------------- |
+| SIGNAL | WCKY.01        |
+| EMAIL  | GEORGE@WCKY.UK |
+
+## SOCIALS
+
+|         |          |
+| ------- | -------- |
+| BLUESKY | @WCKY.UK |
+| INSTA   | @WCKY.01 |
+
 

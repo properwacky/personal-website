@@ -15,7 +15,6 @@
 | POINTER    | MAGIC TRACKPAD          |
 | HEADPHONES | BEYERDYNAMIC DT 770 PRO |
 | EARBUDS    | NOTHING EAR (OPEN)      |
-|            |                         |
 ## DIGITAL
 
 |             |                  |
@@ -30,7 +29,7 @@
 | RSS FEED    | FEEEED           |
 | BROWSER     | ZEN              |
 
-
+`LAST UPDATED: 19/09/2025`
 
 
 |     |     |
