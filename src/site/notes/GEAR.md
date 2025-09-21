@@ -17,17 +17,17 @@
 | EARBUDS    | NOTHING EAR (OPEN)      |
 ## DIGITAL
 
-|             |                  |
-| ----------- | ---------------- |
-| NOTE-TAKING | OBSIDIAN / SPILL |
-| DESIGN      | FIGMA            |
-| MUSIC       | TIDAL            |
-| STORAGE     | PROTON DRIVE     |
-| TASKS       | SYNCTASKS        |
-| MINDFULNESS | MEDITO           |
-| GYM         | DROPSET          |
-| RSS FEED    | FEEEED           |
-| BROWSER     | ZEN              |
+|             |              |
+| ----------- | ------------ |
+| NOTE-TAKING | OBSIDIAN     |
+| DESIGN      | FIGMA        |
+| MUSIC       | TIDAL        |
+| STORAGE     | PROTON DRIVE |
+| TASKS       | SYNCTASKS    |
+| MINDFULNESS | MEDITO       |
+| GYM         | DROPSET      |
+| RSS FEED    | FEEEED       |
+| BROWSER     | ZEN          |
 
 `LAST UPDATED: 19/09/2025`
 
