@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/about/"}
 ---
 
-![copy.jpg](/img/user/copy.jpg)
+![how did you find me.png](/img/user/how%20did%20you%20find%20me.png)
 
 
 ## BIO
