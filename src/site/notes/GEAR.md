@@ -5,16 +5,17 @@
 ![how did you find me.png](/img/user/how%20did%20you%20find%20me.png)
 ## PHYSICAL
 
-|            |                         |
-| ---------- | ----------------------- |
-| DESK       | FLEXISPOT LITE          |
-| PC         | BASE  M1 MAC MINI       |
-| TABLET     | M1 IPAD PRO 12.9"       |
-| PHONE      | IPHONE 13 MINI          |
-| KEYBOARD   | KEYCHRON K6             |
-| POINTER    | MAGIC TRACKPAD          |
-| HEADPHONES | BEYERDYNAMIC DT 770 PRO |
-| EARBUDS    | NOTHING EAR (OPEN)      |
+|            |                            |
+| ---------- | -------------------------- |
+| DESK       | FLEXISPOT LITE             |
+| PC         | BASE M1 MAC MINI           |
+| LAPTOP     | MACBOOK AIR 6,1 W/ OMARCHY |
+| TABLET     | M1 IPAD PRO 12.9"          |
+| PHONE      | IPHONE 13 MINI             |
+| KEYBOARD   | KEYCHRON K6                |
+| POINTER    | MAGIC TRACKPAD             |
+| HEADPHONES | BEYERDYNAMIC DT 770 PRO    |
+| EARBUDS    | NOTHING EAR (OPEN)         |
 ## DIGITAL
 
 |             |              |
