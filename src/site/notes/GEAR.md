@@ -7,10 +7,10 @@
 
 |            |                            |
 | ---------- | -------------------------- |
-| DESK       | FLEXISPOT LITE             |
 | PC         | BASE M1 MAC MINI           |
 | LAPTOP     | MACBOOK AIR 6,1 W/ OMARCHY |
 | TABLET     | M1 IPAD PRO 12.9"          |
+| IPOD       | CLASSIC 5TH GEN (MODDED)   |
 | PHONE      | IPHONE 13 MINI             |
 | KEYBOARD   | KEYCHRON K6                |
 | POINTER    | MAGIC TRACKPAD             |

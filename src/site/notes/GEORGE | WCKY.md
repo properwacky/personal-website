@@ -7,5 +7,6 @@
 # GEORGE MORLEY | WCKY
 
 // [[ABOUT\|ABOUT]]
+// [[BLOG\|BLOG]]
 // [[GEAR\|GEAR]]
 // [[CONTACT\|CONTACT]]
