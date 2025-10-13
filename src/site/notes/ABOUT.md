@@ -16,9 +16,9 @@ George Morley is a student at The Open University, studying a DipHE in Environme
 
 **~ GLIMPSE**
 
-A project that is in very early stages. My goal is to create a fully accessible platform that hosts remedies to addiction and mental and physical health problems with science-backed resources. I believe true freedom comes with full understanding of the problem. 
+A project that is in very early stages. My goal is to create a fully accessible platform that hosts remedies to addiction and mental/physical health problems with science-backed resources. I believe true freedom comes with full understanding of the problem, and wish to prove that through Glimpse.
 
-Currently, I am working on the first stages of bringing this project out into the world. First things first, the website.
+Currently, I am working on bringing this project into reality. Stay tuned.
 
 **~ DEMO AREA FOR GOSFORTH NATURE RESERVE**
 
