@@ -18,4 +18,4 @@
 | INSTA   | @WCKY.01 |
 
 
-`I will only respond to proposals if they match my personal schedule and interests.`
+`I will only respond to proposals if they match my personal schedule and interests`
