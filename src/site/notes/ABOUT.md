@@ -3,13 +3,9 @@
 ---
 
 ![how did you find me.png](/img/user/how%20did%20you%20find%20me.png)
-
-[[GEORGE ~ WCKY\|HOME]]
-
-
 ## BIO
 
-George Morley is a student at The Open University, studying a DipHE in Environmental Studies. He volunteers at a nature reserve, based in Newcastle upon Tyne, England. 
+George Morley is a student, designer, writer and conservationist based in Newcastle upon Tyne, England. He is currently studying a DipHE in Environmental Studies at The Open University while also working on *Glimpse* - a collection of addiction and health resources fully accessible to everyone. 
 
 ---
 ## PROJECTS
