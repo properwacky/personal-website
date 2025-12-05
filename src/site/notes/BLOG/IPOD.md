@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/blog/ipod/"}
 ---
 
-![how did you find me.png](/img/user/how%20did%20you%20find%20me.png)
+
 ## FINDING JOY IN MUSIC AGAIN
 
 ```
