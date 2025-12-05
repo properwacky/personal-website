@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/about/"}
+{"dg-publish":true,"permalink":"/about/","noteIcon":""}
 ---
 
 
-## BIO
+## BIO & FAQ
 
 George Morley is a student, designer, writer and conservationist based in Newcastle upon Tyne, England. He is currently studying a DipHE in Environmental Studies at The Open University.
 

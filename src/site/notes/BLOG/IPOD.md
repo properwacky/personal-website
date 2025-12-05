@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/ipod/"}
+{"dg-publish":true,"permalink":"/blog/ipod/","noteIcon":""}
 ---
 
 
