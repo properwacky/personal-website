@@ -11,7 +11,7 @@ I am working towards a locally connected world through addiction cessation, educ
 
 #### DEMO AREA FOR GOSFORTH NATURE RESERVE (2025 - )
 
-Covering a small area near the entrance of Gosforth Nature Reserve, the proposed idea would help inspire the next generation of environmentalists and teach about the inner workings of the natural world. 
+Covering a small area near the entrance of [Gosforth Nature Reserve](https://www.nhsn.org.uk/), the proposed idea would help inspire the next generation of environmentalists and teach about the inner workings of the natural world. 
 
 With plans to begin development throughout Winter 2025 for it to be completed by for the change of season in 2026. You can follow progress of the area on my Substack.
 #### BADGER WALKS (2025 - )
@@ -26,7 +26,7 @@ I volunteer some of my time to help with a wonderful charity. Made by someone I 
 
 - DipHE in Environmental Studies (**2025 -** )
 - (C&Gs) Level 2 Cert in Chainsaw Maintenance and Cross-Cutting & Felling Small Trees up to 380mm (**2025**)
-- 
+
 ---
 ### CONTACT
 
