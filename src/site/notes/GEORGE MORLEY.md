@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/george-morley/","contentClasses":"\"textFontFamily\": \"JetBrains Mono\"","tags":["gardenEntry"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/george-morley/","tags":["gardenEntry"],"noteIcon":""}
 ---
 
 # *Hey there, I'm George*
