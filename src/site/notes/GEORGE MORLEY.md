@@ -13,7 +13,8 @@ I am working towards a locally connected world through addiction cessation, educ
 
 Covering a small area near the entrance of [Gosforth Nature Reserve](https://www.nhsn.org.uk/), the proposed idea would help inspire the next generation of environmentalists and teach about the inner workings of the natural world. 
 
-With plans to begin development throughout Winter 2025 for it to be completed by for the change of season in 2026. You can follow progress of the area on my Substack.
+I have plans to begin through Winter for it to be completed by Spring 2026. I will post full updates on this site.
+
 #### BADGER WALKS (2025 - )
 
 Sounds funny, and I promise we didn't dress up as badger's and walk the streets. Rather, I ran walks at a local nature reserve to find the elusive badger. It was very successful, with hopes of bringing it back in 2026.
