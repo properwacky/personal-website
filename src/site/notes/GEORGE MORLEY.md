@@ -20,7 +20,7 @@ I have plans to begin through Winter for it to be completed by Spring 2026. I wi
 Sounds funny, and I promise we didn't dress up as badger's and walk the streets. Rather, I ran walks at a local nature reserve to find the elusive badger. It was very successful, with hopes of bringing it back in 2026.
 #### PEACEFUL FOUNDATION (2024 - )
 
-I volunteer some of my time to help with a wonderful charity. Made by someone I am lucky enough to call a friend, [Peaceful](https://peacefulfoundation.org/) is a charity that purely focuses on building local community through solving addiction and other widespread anomalies. The methods *actually* work, with the most popular being *The Easy Peasy Way To Quit Porn* which is adapted from Allen Carr's *Easy Way*.
+I volunteer some of my time to help with a wonderful charity. Ran by someone I am lucky enough to call a friend, [Peaceful](https://peacefulfoundation.org/) is a charity that purely focuses on building local community through solving addiction and other widespread anomalies. The methods *actually* work, with the most popular being *The Easy Peasy Way To Quit Porn* which is adapted from Allen Carr's *Easy Way*.
 
 ---
 ### QUALIFICATIONS 📚
