@@ -32,8 +32,8 @@ I volunteer some of my time to help with a wonderful charity. Made by someone I 
 ### CONTACT 🏝️
 
 **email** - george@wcky.uk
-[
-]()**signal** - @wcky.01
+
+**signal** - @wcky.01
 
 **urbit** - ~sitler-ritteb
 
