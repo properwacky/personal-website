@@ -38,3 +38,9 @@ I volunteer some of my time to help with a wonderful charity. Ran by someone I a
 **urbit** - ~sitler-ritteb
 
 `I will only respond to proposals if they match my personal schedule and interests`
+
+---
+### OTHER LINKS
+
+[[CURRENT KIT\|CURRENT KIT]]
+[[BLOG\|BLOG]]
